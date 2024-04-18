@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/geoffrey-anto/video-downloader/downloader"
-	"github.com/geoffrey-anto/video-downloader/parser"
+	"github.com/geoffrey-anto/course-downloader/downloader"
+	"github.com/geoffrey-anto/course-downloader/parser"
 )
 
 const FILE_NAME = "links.txt"

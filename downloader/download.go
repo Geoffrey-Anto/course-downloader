@@ -8,7 +8,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/geoffrey-anto/video-downloader/parser"
+	"github.com/geoffrey-anto/course-downloader/parser"
 	"github.com/google/uuid"
 )
 

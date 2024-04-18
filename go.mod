@@ -1,4 +1,4 @@
-module github.com/geoffrey-anto/video-downloader
+module github.com/geoffrey-anto/course-downloader
 
 go 1.21.1
 
