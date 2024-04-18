@@ -11,7 +11,7 @@ import (
 )
 
 const FILE_NAME = "links.txt"
-const COURSE_NAME = "Learn Ansible Basics - Beginners Course"
+const COURSE_NAME = "Course"
 
 func main() {
 	t := time.Now()
